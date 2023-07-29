@@ -92,6 +92,7 @@ GameObject:
   - component: {fileID: 222756118080056584}
   - component: {fileID: 114107989100632046}
   - component: {fileID: 114206760481141444}
+  - component: {fileID: 114135214759478800}
   m_Layer: 5
   m_Name: Play Again Button
   m_TagString: Untagged
@@ -182,6 +183,17 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: Try Again
+--- !u!114 &114135214759478800
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1467322844734604}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 759a3177932284b47b9325d5a5a3cec2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &114206760481141444
 MonoBehaviour:
   m_ObjectHideFlags: 1

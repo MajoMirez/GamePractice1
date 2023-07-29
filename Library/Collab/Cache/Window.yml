@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Customs/Sprites/lively 1-test.png
+    - Assets/Customs/Sprites/lively 1-test.png.meta
+    - Assets/Prefabs/Brick TEST.prefab
+    - Assets/Prefabs/Brick TEST.prefab.meta
+    - Assets/Prefabs/LevelManager.prefab
+    - Assets/Prefabs/Menu Pause.prefab
+    - Assets/Prefabs/Menu Win.prefab
+    - Assets/Prefabs/TextMenosVida.prefab
+    - Assets/Scenes/Levels/Level_0.unity
+    - Assets/Scenes/Levels/Level_1.unity
+    - Assets/Scenes/Levels/Level_2.unity
+    - Assets/Scenes/Levels/Level_3.unity
+    - Assets/Scenes/Start Menu.unity
+    - Assets/Scripts/BallScript.cs
+    - Assets/Scripts/BrickScript.cs
+    - Assets/Scripts/LevelManager.cs
+    - Assets/Scripts/LoseCollider.cs
+    - Assets/Scripts/PaddleScript.cs
+    - Assets/Scripts/PowerUps.meta
+    - Assets/Scripts/PowerUps/Powerup1Script.cs
+    - Assets/Scripts/PowerUps/Powerup1Script.cs.meta
+    - Assets/Scripts/PowerUps/Powerup2Script.cs
+    - Assets/Scripts/PowerUps/Powerup2Script.cs.meta
+    - Assets/Scripts/PowerUps/Powerup3Script.cs
+    - Assets/Scripts/PowerUps/Powerup3Script.cs.meta
+    - Assets/Scripts/PowerUps/Powerup4Script.cs
+    - Assets/Scripts/PowerUps/Powerup4Script.cs.meta
+    - Assets/Scripts/PowerUps/PowerupScript.cs
+    - Assets/Scripts/PowerUps/PowerupScript.cs.meta
+    - Assets/Scripts/UnoRojoScript.cs
+    - Assets/Scripts/VidasGUIScript.cs
+    - 
+    m_Values: 0000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0

@@ -1,22 +1,12 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1001 &100100000
-Prefab:
-  m_ObjectHideFlags: 1
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications: []
-    m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 0}
-  m_RootGameObject: {fileID: 1599851288158124}
-  m_IsPrefabParent: 1
 --- !u!1 &1599851288158124
 GameObject:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 5
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
   m_Component:
   - component: {fileID: 224311066226240972}
   - component: {fileID: 114739741830009874}
@@ -27,22 +17,12 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &114739741830009874
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1599851288158124}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2b2561d882857e447a0fc70e5e5496b3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!224 &224311066226240972
 RectTransform:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1599851288158124}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -56,3 +36,23 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &114739741830009874
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1599851288158124}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b2561d882857e447a0fc70e5e5496b3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  winPrefab: {fileID: 1257833887280948, guid: 42fde03e2820a6f49a82295acbb272da, type: 3}
+  pausePrefab: {fileID: 1081750015596386, guid: 7f541910e6ec45946ab253e772c72295,
+    type: 3}
+  gameOverPrefab: {fileID: 1244007250332192, guid: b96c88ffb2953e04aa84d72519da96d5,
+    type: 3}
+  ballPrefab: {fileID: 1913729111633534, guid: 97aaa4898b74c8c4c81434142682fe95, type: 3}
+  unorojo: {fileID: 1896731743863120, guid: 6a3856445f0a36248a92f2ab2f36e3fd, type: 3}
+  vidas: 3

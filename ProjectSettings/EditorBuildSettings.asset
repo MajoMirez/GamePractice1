@@ -7,22 +7,22 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/Start Menu.unity
-    guid: 00000000000000000000000000000000
+    guid: 7fb2975dcf29a4142a061d5e32644c94
+  - enabled: 1
+    path: Assets/Scenes/HighScores Screen.unity
+    guid: 22decb7f07490074e88f4c64450c03db
   - enabled: 1
     path: Assets/Scenes/Level Selector.unity
-    guid: 00000000000000000000000000000000
+    guid: 9b8105fb30f614c4fb4042c3f14b6d38
   - enabled: 1
     path: Assets/Scenes/Levels/Level_1.unity
-    guid: 00000000000000000000000000000000
+    guid: 7687f550e95157b4ba08dd6969d8bfb2
   - enabled: 1
     path: Assets/Scenes/Levels/Level_2.unity
-    guid: 00000000000000000000000000000000
+    guid: ca63d901885324f44ac2c9a6f844574d
   - enabled: 1
     path: Assets/Scenes/Levels/Level_3.unity
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: Assets/Scenes/Lose Screen.unity
-    guid: 00000000000000000000000000000000
-  - enabled: 0
+    guid: 9a50f719a55b0ff42841cb6f3a177ef5
+  - enabled: 1
     path: Assets/Scenes/Win Screen.unity
-    guid: 00000000000000000000000000000000
+    guid: 14c4ccf78295b44a4b81771a29ac16ba
